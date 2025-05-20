@@ -1,0 +1,2 @@
+Para hacer un primer overview e interpretar la estructura de archivos y la posible arquitectura del proyecto se ha hehco en cherry studio usando llama-versatile-70b, así como un análisis previo de los posibles archivos más importantes y sus partes destaclabes (essh.go, task.go y host.go).
+Con la documentación generada de esta primera iteración se ha creado una pequeña knowledge base, que ha sido usada por claude 3.5 en VSCode para interpretar las partes críticas del código y generar una documentación un poco más extensa.
